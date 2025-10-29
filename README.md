@@ -1,6 +1,6 @@
 # NT213.Q11.ANTN-WebSecurity-Project
 
-# Automated broken object-level authorization attack detection in REST APIs through OpenAPI to colored petri nets transformation
+## Automated broken object-level authorization attack detection in REST APIs through OpenAPI to colored petri nets transformation
 
 ### Installation:
 ``` bash
@@ -25,4 +25,5 @@ python3 execute_replay.py <open_api_specification_path> <event_logs_path>
 ### Example
 ```
 $ python3 execute_replay.py examples/OWASP-Juice-Shop-experiment.yaml logs/real_logs_experiment.log
+
 ```
